@@ -12,7 +12,6 @@ public class CFTask8 {
                     totalPriceOfAllTheRooms += matrix[j][i];
                 else
                     break;
-                System.out.println(matrix[j][i]);
             }
         }
         return totalPriceOfAllTheRooms;
